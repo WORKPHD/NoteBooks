@@ -6,11 +6,11 @@
    
 2. Typora图像设置：图片插入设置为相对路径，实现在远程仓库也能显示图片。
 
-   ![image-20230707103411794](../assets/Typora实现云同步/image-20230707103411794.png)
+   <img src="../assets/Typora实现云同步/image-20230707103411794.png" alt="image-20230707103411794" style="zoom:50%;" />
 
 3. Typora语法设置：
 
-   ![image-20230707103711766](../assets/Typora实现云同步/image-20230707103711766.png)
+   <img src="../assets/Typora实现云同步/image-20230707103711766.png" alt="image-20230707103711766" style="zoom:50%;" />
 
 ## (2) 安装git
 
