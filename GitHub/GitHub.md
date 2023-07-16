@@ -7,6 +7,7 @@ git remote add 别名 远程地址  //给远程地址
 
 
 
-
-
 通过SSH实现GitHub的免密登录；
+
+![image-20230716223134647](../assets/GitHub/image-20230716223134647.png)
+
