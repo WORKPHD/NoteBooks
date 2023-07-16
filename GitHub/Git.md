@@ -23,11 +23,11 @@
 
 ## Git的安装：
 
-![image-20230713171820812](../../TyporaNote/assets/Git/image-20230713171820812.png)
+![image-20230713171820812](../assets/Git/image-20230713171820812.png)
 
-![image-20230713172633355](../../TyporaNote/assets/Git/image-20230713172633355.png)
+![image-20230713172633355](../assets/Git/image-20230713172633355.png)
 
-![image-20230713172857498](../../TyporaNote/assets/Git/image-20230713172857498.png)
+![image-20230713172857498](../assets/Git/image-20230713172857498.png)
 
 ## Git命令：
 
@@ -45,7 +45,7 @@ git add '文件名'  //将本地文件添加到暂存区
 
 在被管理的目录下输入初始化命令 ：git init
 
-![image-20230713174748503](../../TyporaNote/assets/Git/image-20230713174748503.png)
+![image-20230713174748503](../assets/Git/image-20230713174748503.png)
 
 ### 将暂存区文件提交到本地库：git commit -m "日志信息" 文件名 
 
